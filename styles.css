@@ -81,13 +81,17 @@ html, body {
 }
 
 .main-footer {
-    background-color: #ece5ff;
-    padding: .5em 1em;
+    background-color: #e0e0eb;
+    padding: .5em 0em;
 }
 
 .main-footer-container {
     display: flex;
     align-items: center;
+}
+.footer-header {
+    color: #7575a3;
+    padding-left: .5em;
 }
 
 .main-footer-container ul {
@@ -102,8 +106,10 @@ html, body {
 .footer-nav img {
     width: 40px;
     height: 40px;
-    border: 1px red solid;
+    padding: 5px 5px;
 }
+
+
 
 .about-img {
     height: 50%;
