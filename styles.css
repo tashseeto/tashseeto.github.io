@@ -73,13 +73,10 @@ html, body {
     margin: 5px 5px;
 }
 
-.homepage-img {
-    float: left;
-    height: 300px;
-    width: 400px;
-    margin: 15px;
-    border-radius: 30%;
-
+.div-img .homepage-img {
+    object-fit: cover;
+    height:400px;
+    width: 100%;
 }
 
 #top-div {
@@ -122,11 +119,6 @@ html, body {
 }
 
 
-
-.about-img {
-    height: 50%;
-    width: 50%;
-}
 
 /* 
 #homepage_img {
