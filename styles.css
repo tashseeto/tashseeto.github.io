@@ -82,6 +82,16 @@ html, body {
 
 }
 
+#top-div {
+    text-align: left;
+    padding-left: .5em;
+}
+
+#bottom-div {
+    text-align: right;
+    padding-right: .5em;
+}    
+
 .main-footer {
     background-color: #e0e0eb;
     padding: .5em 0em;
