@@ -91,8 +91,6 @@ html, body {
 }
 
 .about-content-section {
-    background-image: url("images/DSC_0387.jpg");
-    
     margin: 0px;
     height: 550px;
     padding: 0px;
@@ -103,7 +101,21 @@ html, body {
     width: 50%;
     float: left;
     border: 2px solid black;
-  
+    height: 100%;
+    font-size: large;
+    text-align: left justify;
+    padding-left: 1em;
+}
+
+.about-text1 {
+    
+}
+
+#about-img {
+    background-image: url("images/DSC_0387.jpg");
+    object-fit: cover;
+    height: 100%;
+    width: 70%;
 }
 
 #top-div {
