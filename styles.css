@@ -46,11 +46,8 @@ html, body {
 }
 
 .main-header {
-    background-image: url("Images/homepage_img.jpg");
     background-size: cover;
-    background-color: rgba(0, 0, 0, .6);
-    background-blend-mode: multiply;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 .content-section {
