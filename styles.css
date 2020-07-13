@@ -53,13 +53,14 @@ html, body {
 
 .content-section {
     margin: 1em;
-    border: 1px solid red;
+    height: 550px;
+    padding: 0px;
 }
 
 .container {
-    max-width: 900px;
     margin: 0 auto;
-    padding: 0 1.5em;
+    padding: 0 auto;
+    height: 80vh;
 }
 
 .section-header {
