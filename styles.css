@@ -4,7 +4,6 @@
 * {
     box-sizing: border-box;
     font-family: 'Darker Grotesque', sans-serif;
-    color: #777;
 }
 
 html, body {
@@ -80,7 +79,6 @@ html, body {
 }
 
 .about-section-header {
-    background-image: none;
     font-family: 'Parisienne', cursive;
     font-style: italic;
     font-weight: lighter;
@@ -92,11 +90,12 @@ html, body {
 
 .about-content-section {
     margin: 0px;
-    height: 550px;
+    height: 80vh;
     padding: 0px;
     border: 2px solid yellow;
+    background-color: rgba(255,255,255, 0.6);
     background-image: url("images/DSC_0387.jpg");
-    opacity: 0.5;
+    background-blend-mode: overlay;
     background-size: cover;
 }
 
@@ -105,7 +104,8 @@ html, body {
     float: left;
     border: 2px solid black;
     height: 100%;
-    font-size: medium;
+    color: black;
+    font-size: large;
     text-align: left justify;
     padding-left: 1em;
 }
