@@ -66,10 +66,11 @@ html, body {
 .section-header {
     font-family: 'Parisienne', cursive;
     font-style: italic;
-    font-weight: normal;
-    font-size: 2.5em;
-    color: #dcd1fa; 
+    font-weight: lighter;
+    font-size: 3.5em;
+    color: #7575a3; 
     text-align: left;
+    margin: 5px 5px;
 }
 
 .homepage-img {
