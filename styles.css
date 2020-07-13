@@ -31,9 +31,9 @@ html, body {
     text-align: center;
     font-size: 1.5em;
     font-weight: lighter;
-    border-bottom: 1px solid #e6fff7;
+    border-bottom: 1px solid #ece5ff;
     height: 50px;
-
+    background-color: #efecf9;
 }
 
 .main-nav li { 
