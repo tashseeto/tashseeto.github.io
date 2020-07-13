@@ -95,6 +95,9 @@ html, body {
     height: 550px;
     padding: 0px;
     border: 2px solid yellow;
+    background-image: url("images/DSC_0387.jpg");
+    opacity: 0.5;
+    background-size: cover;
 }
 
 .about-div {
@@ -102,21 +105,11 @@ html, body {
     float: left;
     border: 2px solid black;
     height: 100%;
-    font-size: large;
+    font-size: medium;
     text-align: left justify;
     padding-left: 1em;
 }
 
-.about-text1 {
-    
-}
-
-#about-img {
-    background-image: url("images/DSC_0387.jpg");
-    object-fit: cover;
-    height: 100%;
-    width: 70%;
-}
 
 #top-div {
     text-align: left;
