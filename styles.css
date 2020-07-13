@@ -108,6 +108,9 @@ html, body {
     padding-left: 1em;
 }
 
+#about-main-text {
+    background-color: rgba(230,230,230 0.7);
+}
 
 #top-div {
     text-align: left;
