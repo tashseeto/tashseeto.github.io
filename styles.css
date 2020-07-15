@@ -113,7 +113,7 @@ html, body {
     font-size: x-large;
     font-weight: normal;
     text-align: left;
-    padding: .5em;
+    padding: .5em 0em;
     margin: .5em;
     background-color: rgba(117,117,163, 0.8);
     align-items: center;
