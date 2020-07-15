@@ -131,7 +131,7 @@ html, body {
 
 .main-footer-container {
     display: flex;
-    text-align: center;
+    align-items: center;
     height: 10vh;
     border: 1px yellow solid;
     
