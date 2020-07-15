@@ -130,8 +130,7 @@ html, body {
     padding: .5em 0em;
     position: fixed;
     bottom: 0px;
-    left: 0px;
-    height: 10%vh;
+    height: 10vh;
     
 }
 .footer-header {
