@@ -114,7 +114,7 @@ html, body {
     font-weight: normal;
     text-align: left;
     padding: 2em;
-    margin: 1em;
+    margin: 1em .5em;
     background-color: rgba(117,117,163, 0.7);
 }
 
