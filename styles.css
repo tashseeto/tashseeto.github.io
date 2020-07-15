@@ -132,14 +132,12 @@ html, body {
 .main-footer-container {
     display: flex;
     align-items: center;
-    border: 1px yellow solid;
     margin: 0px;    
 }
 
 .footer-header {
     color: #7575a3;
     padding-left: .5em;
-    border: 1px orange solid;
 }
 
 .main-footer-container ul {
@@ -149,14 +147,12 @@ html, body {
 
 .footer-nav li {
     padding: 0 .5em;
-    border: 1px green solid;
 }
 
 .footer-nav img {
     width: 40px;
     height: 40px;
     padding: 5px 5px;
-    border: 1px pink solid;
 }
 
 
