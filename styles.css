@@ -127,7 +127,7 @@ html, body {
 .main-footer {
     background-color: #e0e0eb;
     padding: .5em 0em;
-    position: absolute;
+    position: fixed;
     bottom: 0px;
 }
 
