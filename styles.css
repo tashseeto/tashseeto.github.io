@@ -134,7 +134,7 @@ html, body {
     align-items: center;
     border: 1px yellow solid;
     margin: 0px;
-    position: fixed;
+    position: absolute;
     bottom: 0px;
 
     
