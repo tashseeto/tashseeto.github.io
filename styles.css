@@ -110,14 +110,13 @@ html, body {
     float: left;
     height: 100%;
     color: #f0f0f5;
-    font-size: larger;
+    font-size: x-large;
+    font-weight: normal;
     text-align: left;
     padding: 2em;
     margin: 1em;
     background-color: rgba(117,117,163, 0.7);
 }
-
-
 
 #top-div {
     text-align: left;
