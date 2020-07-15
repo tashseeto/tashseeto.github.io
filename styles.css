@@ -118,6 +118,10 @@ html, body {
     background-color: rgba(117,117,163, 0.7);
 }
 
+.about-div p {
+    margin: .5em;
+}
+
 #top-div {
     text-align: left;
     padding-left: .5em;
