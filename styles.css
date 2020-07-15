@@ -80,7 +80,7 @@ html, body {
     width: 100%;
 }
 
-.about-section-header {
+.section-header h1 {
     font-family: 'Parisienne', cursive;
     font-style: italic;
     font-weight: lighter;
