@@ -110,9 +110,10 @@ html, body {
     float: left;
     height: 100%;
     color: #f0f0f5;
-    font-size: x-large;
+    font-size: large;
     text-align: left;
     padding-left: 1em;
+    margin: 1em;
 }
 
 #about-main-text {
