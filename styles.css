@@ -109,6 +109,7 @@ html, body {
 .about-div {
     flex-wrap: wrap;
     width: 50%;
+    height: 90%;
     float: left;
     color: #f0f0f5;
     font-size: larger;
