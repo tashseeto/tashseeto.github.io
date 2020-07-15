@@ -96,6 +96,7 @@ html, body {
 }
 
 .about-content-section {
+    display: block;
     margin: 0px;
     height: 80vh;
     padding: 0px;
