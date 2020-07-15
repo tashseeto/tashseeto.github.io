@@ -99,7 +99,7 @@ html, body {
     margin: 0px;
     height: 80vh;
     padding: 0px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.6);
     background-image: url("images/RedSelaron2.png");
     background-blend-mode: overlay;
     background-size: cover;
@@ -116,7 +116,7 @@ html, body {
 }
 
 #about-main-text {
-    background-color: rgba(117,117,163, 0.4);
+    background-color: rgba(117,117,163, 0.2);
 }
 
 #top-div {
