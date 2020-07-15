@@ -114,10 +114,9 @@ html, body {
     font-size: larger;
     font-weight: normal;
     text-align: left;
-    padding: 2em 0em;
+    padding: 2em 2em;
     margin: 2em;
     background-color: rgba(117,117,163, 0.8);
-    margin: 0;
     vertical-align: middle;
 }
 
