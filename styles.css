@@ -81,12 +81,6 @@ html, body {
 }
 
 .section-header {
-    font-family: 'Parisienne', cursive;
-    font-style: italic;
-    font-weight: lighter;
-    font-size: 3.5em;
-    color: #7575a3; 
-    text-align: left;
     margin: 5px 5px;
     height: 100px;
 }
