@@ -133,12 +133,9 @@ html, body {
     display: flex;
     align-items: center;
     border: 1px yellow solid;
-    margin: 0px;
-    position: absolute;
-    bottom: 0px;
-
-    
+    margin: 0px;    
 }
+
 .footer-header {
     color: #7575a3;
     padding-left: .5em;
