@@ -116,7 +116,7 @@ html, body {
     padding: .5em;
     margin: .5em;
     background-color: rgba(117,117,163, 0.8);
-    vertical-align: center;
+    align-items: center;
 }
 
 .about-div p {
