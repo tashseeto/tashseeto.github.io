@@ -125,8 +125,6 @@ html, body {
 }    
 
 .main-footer-container {
-    display: flex;
-    align-items: center;
     background-color: #e0e0eb;
     padding: .5em 0em;
     height: 10vh;
@@ -134,6 +132,7 @@ html, body {
     
 }
 .footer-header {
+    text-align: left;
     color: #7575a3;
     padding-left: .5em;
     border: 1px orange solid;
