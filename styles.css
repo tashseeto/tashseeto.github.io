@@ -96,7 +96,7 @@ html, body {
 }
 
 .about-content-section {
-    display: flexbox;
+    display: flex;
     margin: 0px;
     height: 90vh;
     padding: 0px;
@@ -107,7 +107,7 @@ html, body {
 }
 
 .about-div {
-    display: ;
+    display: flex;
     width: 50%;
     float: left;
     height: 90%;
