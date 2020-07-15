@@ -130,6 +130,7 @@ html, body {
     background-color: #e0e0eb;
     padding: .5em 0em;
     height: 10vh;
+    border: 1px yellow solid;
     
 }
 .footer-header {
@@ -139,6 +140,7 @@ html, body {
 
 .main-footer-container ul {
     text-align: right;
+    border: 1px red solid;
 }
 
 .footer-nav li {
