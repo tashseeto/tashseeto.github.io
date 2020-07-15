@@ -95,9 +95,10 @@ html, body {
     font-family: 'Parisienne', cursive;
     font-style: italic;
     font-weight: lighter;
-    font-size: 3.5em;
+    font-size: 1em;
     color: #7575a3; 
     text-align: left;
+    margin: 0px;
 }
 
 .about-content-section {
