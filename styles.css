@@ -104,13 +104,9 @@ html, body {
     background-image: url("images/RedSelaron2.png");
     background-blend-mode: overlay;
     background-size: cover;
+    object-fit: cover;
 }
 
-.about-content-section img {
-    object-fit: cover;
-    height:400px;
-    width: 100%;
-}
 
 .about-div {
     flex-wrap: wrap;
