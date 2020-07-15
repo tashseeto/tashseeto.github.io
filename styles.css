@@ -105,7 +105,6 @@ html, body {
     background-blend-mode: overlay;
     background-size: cover;
     object-fit: cover;
-    margin-bottom: 100px;
 }
 
 
@@ -140,6 +139,7 @@ html, body {
 .main-footer {
     background-color: #e0e0eb;
     padding: .5em 0em;
+    margin-top: 100px;
 }
 
 .main-footer-container {
