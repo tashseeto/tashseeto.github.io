@@ -107,7 +107,7 @@ html, body {
 }
 
 .about-div {
-    display: block;
+    display: inline-block;
     flex-wrap: wrap;
     width: 50%;
     float: left;
