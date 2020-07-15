@@ -48,6 +48,7 @@ html, body {
 .main-header {
     background-size: cover;
     padding-bottom: 20px;
+    height: 10vh;
 }
 
 .home-content-section {
@@ -130,6 +131,7 @@ html, body {
     position: fixed;
     bottom: 0px;
     left: 0px;
+    height: 10%vh;
     
 }
 .footer-header {
