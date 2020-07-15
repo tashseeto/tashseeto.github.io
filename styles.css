@@ -116,8 +116,11 @@ html, body {
     padding: .5em 0em;
     margin: .5em;
     background-color: rgba(117,117,163, 0.8);
-    align-items: center;
-    height: 90%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 .about-div p {
