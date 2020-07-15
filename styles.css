@@ -106,6 +106,12 @@ html, body {
     background-size: cover;
 }
 
+.about-content-section img {
+    object-fit: cover;
+    height:400px;
+    width: 100%;
+}
+
 .about-div {
     flex-wrap: wrap;
     width: 50%;
