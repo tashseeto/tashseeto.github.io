@@ -137,15 +137,14 @@ html, body {
     
 }
 .footer-header {
-    text-align: left;
     color: #7575a3;
     padding-left: .5em;
     border: 1px orange solid;
 }
 
 .main-footer-container ul {
-    text-align: right;
-    border: 1px red solid;
+    flex-grow: 1;
+    text-align: end;
 }
 
 .footer-nav li {
