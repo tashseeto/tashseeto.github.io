@@ -117,10 +117,7 @@ html, body {
     margin: .5em;
     background-color: rgba(117,117,163, 0.8);
     margin: 0;
-    position: absolute;
-    top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    vertical-align: middle;
 }
 
 .about-div p {
