@@ -124,11 +124,14 @@ html, body {
     padding-right: .5em;
 }    
 
+.main-footer {
+    background-color: #e0e0eb;
+    padding: .5em 0em;
+}
+
 .main-footer-container {
     display: flex;
     text-align: center;
-    background-color: #e0e0eb;
-    padding: .5em 0em;
     height: 10vh;
     border: 1px yellow solid;
     
