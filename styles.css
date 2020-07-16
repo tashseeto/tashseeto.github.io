@@ -195,12 +195,12 @@ html, body {
     display: flex;
     flex-grow: 1;
     min-height: 200px;
-    margin: 5px;
+    margin: 20px;
 }
 
 .flexbox-item-2 {
     display: block;
     min-height: 200px;
     background-color: rgba(117,117,163, 0.55);
-    margin: 5px 5px 10px 5px;
+    margin: 20px;
 }
