@@ -145,7 +145,8 @@ html, body {
 
 .footer-header {
     color: #7575a3;
-    padding-left: .5em;
+    color: white;
+    padding-left: 20px;
 }
 
 .main-footer-container ul {
