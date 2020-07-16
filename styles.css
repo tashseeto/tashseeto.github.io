@@ -101,6 +101,7 @@ html, body {
     color:  #861386;
     text-align: left;
     padding-top: 30px;
+    margin: 0px;
 }
 
 #home-section-header2 h2 {
@@ -110,6 +111,7 @@ html, body {
     color:  #861386;
     text-align: right;
     padding-bottom: 30px;
+    margin: 0px;
 
 }
 
