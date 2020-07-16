@@ -76,7 +76,7 @@ html, body {
     margin: 0px;
 }
 
-.home-section-header {
+#home-section-header {
     margin: 20px 20px;
     padding: 20px;
     height: 100px;
@@ -92,18 +92,24 @@ html, body {
     height: 100px;
     padding-top: 30px;
     margin: 20px 20px;
-    
 }
-#home-section-header2 {
+
+#home-section-header1 h1 {
+    font-family: 'Kalam', cursive;
+    font-weight: lighter;
+    font-size: 3em;
+    color:  #861386;
+    text-align: left;
+    padding-top: 30px;
+}
+
+#home-section-header2 h2 {
     font-family: 'Kalam', cursive;
     font-weight: lighter;
     font-size: 3em;
     color:  #861386;
     text-align: right;
-    height: 100px;
     padding-bottom: 30px;
-    margin: 20px 20px;
-    padding: 20px;
 
 }
 
