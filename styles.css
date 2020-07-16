@@ -11,7 +11,6 @@ html, body {
     padding: 0;
 }
 
-
 .nav li {
     display: inline-block;
 }
@@ -48,7 +47,7 @@ html, body {
 
 .main-header {
     background-size: cover;
-    padding-bottom: 5px;
+    padding: 0px;
     height: 60px;
 }
 
