@@ -285,11 +285,14 @@ html, body {
   color: rgba(153,0,153,0.7);
 }
 
+.work-container {
+    height: 90vh;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: .25fr 1.75fr;
-    height: 90vh;
     column-gap: 10px;
     row-gap: 2px;
     margin: 10px;
