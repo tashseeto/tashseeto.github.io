@@ -164,3 +164,19 @@ html, body {
     padding: 5px 5px;
 }
 
+.contact-container {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+}
+
+.bg-img {
+    background-image: url("images/About_NatashaSeeto.jpg");
+    background-color: rgba(255, 255, 255, 0.35);
+    background-blend-mode: overlay;
+    height: 100%; 
+    width: 100%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+}
