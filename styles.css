@@ -52,12 +52,6 @@ html, body {
     height: 60px;
 }
 
-.home-content-section {
-    margin: 1em;
-    height: 550px;
-    padding: 0px;
-}
-
 .section-header {
     margin: 20px 20px;
     padding: 20px;
@@ -182,6 +176,15 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
+#bg-img-work {
+    background-image: url("images/floweroflife_repeating.jpg");
+    background-blend-mode: overlay;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
 
 .flexbox-container {
     display: flex;
