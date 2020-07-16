@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 
 * {
     box-sizing: border-box;
@@ -72,6 +73,7 @@ html, body {
 
 .section-header h1 {
     font-family: 'Parisienne', cursive;
+    font-family: 'Kalam', cursive;
     font-style: italic;
     font-weight: lighter;
     font-size: 3.5em;
