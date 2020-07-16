@@ -171,6 +171,7 @@ html, body {
     background-size: cover;
     object-fit: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 #bg-img-contact {
