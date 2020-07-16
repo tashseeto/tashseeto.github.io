@@ -40,7 +40,7 @@ html, body {
     text-align: right;
 }
 
-.nav a:hover {
+.main-nav a:hover {
     color: #ca80ff;
     background-color: rgba(255,255,255, .3);
 }
