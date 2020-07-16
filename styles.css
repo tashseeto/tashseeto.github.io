@@ -103,6 +103,27 @@ html, body {
 
 }
 
+.home-section-header3 {
+    margin: 20px 20px;
+    padding: 20px;
+    height: 100px;
+    background-color: rgba(255,255,255, 0.8);
+    
+}
+
+.home-section-header3 h1 {
+    font-family: 'Kalam', cursive;
+    font-weight: lighter;
+    font-size: 3em;
+    color:  #861386;
+    text-align: left;
+    margin: 0px;
+
+}
+
+
+
+
 .main-footer {
     background-color: #e0e0eb;
     background-color: rgba(153,0,153,0.4);
