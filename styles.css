@@ -135,13 +135,13 @@ html, body {
 .main-footer {
     background-color: #e0e0eb;
     background-color: rgba(153,0,153,0.4);
-    padding: .5em 0em;
 }
 
 .main-footer-container {
     display: flex;
     align-items: center;
     margin: 0px;
+    padding: .5em 0em;
 }
 
 .footer-header {
