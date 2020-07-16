@@ -65,13 +65,21 @@ html, body {
 }
 
 .section-header {
+    margin: 5px 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    height: 100px;
+    background-color: rgba(255,255,255, 0.7);
+}
+
+.section-header h1 {
     font-family: 'Parisienne', cursive;
     font-style: italic;
     font-weight: lighter;
     font-size: 3.5em;
     color: #7575a3; 
     text-align: left;
-    margin: 5px 5px;
+    margin: 0px;
 }
 
 .div-img .homepage-img {
@@ -170,13 +178,3 @@ html, body {
     padding: 5px 5px;
 }
 
-
-
-
-/* 
-#homepage_img {
-    width: 60%;
-    height: 60%;
-    object-fit: cover;
-    object-position: center;
-} */
