@@ -76,12 +76,6 @@ html, body {
     margin: 0px;
 }
 
-.home-section-header {
-    margin: 0px 20px 0px 20px;
-    padding: 20px;
-    height: 100px;
-}
-
 .home-section-header1 {
     margin: 20px 20px 0px 20px;
     padding: 20px;
@@ -103,6 +97,7 @@ html, body {
     padding: 0px 20px 20px 20px;
     height: 100px;
 }
+
 .home-section-header2 h2 {
     font-family: 'Kalam', cursive;
     font-weight: lighter;
@@ -113,8 +108,6 @@ html, body {
     margin: 0px;
 
 }
-
-
 
 .main-footer {
     background-color: #e0e0eb;
