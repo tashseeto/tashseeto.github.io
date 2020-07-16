@@ -170,6 +170,7 @@ html, body {
     height: 100vh;
     background-size: cover;
     object-fit: cover;
+    background-repeat: no-repeat;
 }
 
 #bg-img-contact {
