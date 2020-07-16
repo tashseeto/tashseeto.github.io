@@ -140,7 +140,8 @@ html, body {
 .main-footer-container {
     display: flex;
     align-items: center;
-    margin: 0px;    
+    margin: 0px;
+    background-color: rgba(153,0,153,0.4);
 }
 
 .footer-header {
