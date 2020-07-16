@@ -76,7 +76,24 @@ html, body {
     margin: 0px;
 }
 
-.section-header h2 {
+#home-section-header {
+    margin: 20px 20px;
+    padding: 20px;
+    height: 100px;
+    background-color: rgba(255,255,255, 0.8);
+}
+
+#home-section-header h1 {
+    font-family: 'Parisienne', cursive;
+    font-family: 'Kalam', cursive;
+    font-weight: lighter;
+    font-size: 3em;
+    color: #7575a3;
+    color:  #861386;
+    text-align: right;
+    margin: 0px;
+}
+#home-section-header h2 {
     font-family: 'Parisienne', cursive;
     font-family: 'Kalam', cursive;
     font-weight: lighter;
