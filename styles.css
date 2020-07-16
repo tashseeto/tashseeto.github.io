@@ -179,7 +179,7 @@ html, body {
 
 #bg-img-work {
     background-image: url("images/floweroflife_repeating.jpg");
-    background-color: rgba(255, 255, 255, 0.95);
+    background-color: rgba(255, 255, 255, 0.9);
     background-blend-mode: overlay;
     object-fit: cover;
     height: 100%;
