@@ -180,3 +180,33 @@ html, body {
     object-fit: cover;
     background-size: cover;
 }
+
+.flexbox-container {
+    display: flex;
+    align-items: stretch;
+    height: 90vh;
+}
+
+.flexbox-item {
+    width: 50%;
+    margin: 0px;
+}
+
+.flexbox-item-1 {
+    display: flex;
+    flex-grow: 1;
+    min-height: 200px;
+    margin: 5px;
+    padding: 0px;
+}
+
+.flexbox-item-1 img {
+    object-fit: cover;
+    height: 100%;
+}
+
+.flexbox-item-2 {
+    display: block;
+    min-height: 200px;
+    background-color: rgba(117,117,163, 0.55);
+}
