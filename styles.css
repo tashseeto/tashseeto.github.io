@@ -76,6 +76,17 @@ html, body {
     margin: 0px;
 }
 
+.section-header h2 {
+    font-family: 'Parisienne', cursive;
+    font-family: 'Kalam', cursive;
+    font-weight: lighter;
+    font-size: 3em;
+    color: #7575a3;
+    color:  #861386;
+    text-align: right;
+    margin: 0px;
+}
+
 .div-img .homepage-img {
     object-fit: cover;
     height:400px;
