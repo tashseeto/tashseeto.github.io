@@ -223,12 +223,18 @@ h4 {
     display: flex;
     align-items: stretch;
     height: 70vh;
+    @media (max-width: 480px) {
+         display: inline;
 }
-@media (max-width: 480px) {
-    .flexbox-container-contact {
-     display: inline;
 
-}
+ .flexbox-item-2 {
+    display: block;
+    min-height: 200px;
+    background-color: rgba(117,117,163, 0.6);
+    margin: 0px 20px 20px 20px;
+    color: #f0f0f5;
+}    
+
 
 
 .flexbox-item {
@@ -251,6 +257,7 @@ h4 {
     margin: 0px 20px 20px 20px;
     color: #f0f0f5;
 }
+
 
 .flexbox-item-3 p {
     margin: 10px;
