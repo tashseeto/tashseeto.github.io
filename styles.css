@@ -209,7 +209,7 @@ h4 {
 .flexbox-container {
     display: flex;
     align-items: stretch;
-    height: 80vh;
+    height: 70vh;
 }
 
 .flexbox-item {
