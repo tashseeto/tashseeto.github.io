@@ -94,7 +94,7 @@ html, body {
     margin: 20px 20px;
 }
 
-.home-section-header1 h1 {
+.home-section-header h1 {
     font-family: 'Kalam', cursive;
     font-weight: lighter;
     font-size: 3em;
@@ -104,7 +104,7 @@ html, body {
     margin: 0px;
 }
 
-.home-section-header2 h2 {
+.home-section-header h2 {
     font-family: 'Kalam', cursive;
     font-weight: lighter;
     font-size: 3em;
