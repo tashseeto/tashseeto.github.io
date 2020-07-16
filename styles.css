@@ -347,22 +347,22 @@ h4 {
 
 .grid-item4 {
     background-color: rgba(117,117,163, 0.2);
+}
+
+.grid-item5 {
+    background-color: rgba(117,117,163, 0.2);
     background-image: url("images/icons8-python-96.png");
     background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-position: center;
 }
 
-.grid-item5 {
-    background-color: rgba(117,117,163, 0.2)
-}
-
 .grid-item6 {
-    background-color: rgba(117,117,163, 0.2)
-}
-
-#python-img {
-    ;
+    background-color: rgba(117,117,163, 0.2);
+    background-image: url("Images/icons8-react-native-96.png");
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .grid-item4:hover {
