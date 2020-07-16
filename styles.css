@@ -171,6 +171,7 @@ html, body {
 
 #bg-img-about {
     background-image: url("images/NSeeto-About2.png");
+    background-color: rgba(0, 0, 0, 0.3);
     background-blend-mode: overlay;
     object-fit: cover;
     height: 100%;
