@@ -226,10 +226,7 @@ h4 {
 }
 @media (max-width: 480px) {
     .flexbox-container-contact {
-        display: flex;
-        flex-direction: column;
-        height: 70vh;
-        width: 480px;
+     display: inline-block;
 
 }
 
