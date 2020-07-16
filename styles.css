@@ -138,8 +138,9 @@ html, body {
 
 .bg-img-home {
     object-fit: cover;
-    height:400px;
+    background-size: cover;
     width: 100%;
+    height: 100%;
 }
 
 #bg-img-contact {
