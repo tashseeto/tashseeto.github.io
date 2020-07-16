@@ -203,5 +203,5 @@ html, body {
     display: block;
     min-height: 200px;
     background-color: rgba(117,117,163, 0.55);
-    margin: 5px;
+    margin: 5px 5px 5px 10px;;
 }
