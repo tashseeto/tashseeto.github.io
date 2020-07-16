@@ -208,7 +208,8 @@ h4 {
 .flexbox-container-home {
     display: flex;
     flex-direction: column;
-    align-items: stretch;
+    align-items: center;
+    justify-content: space-evenly;
     height: 70vh;
 }
 
@@ -260,8 +261,6 @@ h4 {
     min-height: 400px;
     width: 100%;
     
-
-
 }
 
 .flexbox-item-5 {
