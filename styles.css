@@ -224,7 +224,7 @@ h4 {
     align-items: stretch;
     height: 70vh;
 }
-@media (max-width: 480px) {
+@media (max-width:480px) {
     .flexbox-container-contact {
      display: inline;
     }
