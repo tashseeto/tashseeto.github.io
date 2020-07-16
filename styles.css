@@ -57,12 +57,6 @@ html, body {
     height: 550px;
     padding: 0px;
 }
-/*
-.container {
-    margin: 0 auto;
-    padding: 0 auto;
-    height: 100vh;
-}*/
 
 .section-header {
     margin: 20px 20px;
@@ -86,40 +80,6 @@ html, body {
     object-fit: cover;
     height:400px;
     width: 100%;
-}
-
-
-.about-content-section {
-    display: flex;
-    margin: 0px;
-    height: 90vh;
-    padding: 0px;
-    background-color: rgba(255, 255, 255, 0.35);
-    background-image: url("images/RedSelaron2.png");
-    background-blend-mode: overlay;
-    background-size: cover;
-    object-fit: cover;
-    border: 2px yellow solid;
-}
-
-
-.about-div {
-    flex-wrap: wrap;
-    width: 50%;
-    height: 100%;
-    float: left;
-    color: #f0f0f5;
-    font-size: large;
-    font-weight: normal;
-    text-align: left;
-    padding: 2em 2em;
-    margin: .5em;
-    background-color: rgba(117,117,163, 0.8);
-    vertical-align: middle;
-}
-
-.about-div p {
-    margin: .5em;
 }
 
 #top-div {
@@ -235,6 +195,10 @@ html, body {
     font-size: large;
     font-weight: normal;
     text-align: left;
+}
+
+.flexbox-item-3 p {
+    margin: 10px;
 }
 
 .form {
