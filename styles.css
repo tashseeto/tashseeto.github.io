@@ -214,6 +214,14 @@ html, body {
 .flexbox-item-2 {
     display: block;
     min-height: 200px;
+    background-color: rgba(117,117,163, 0.55);
+    margin: 0px 20px 20px 20px;
+    color: #f0f0f5;
+}
+
+.flexbox-item-3 {
+    display: block;
+    min-height: 200px;
     background-color: rgba(117,117,163, 0.8);
     margin: 0px 20px 20px 20px;
     color: #f0f0f5;
