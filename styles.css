@@ -218,7 +218,7 @@ html, body {
 }
 
 .form-item input, .form textarea {
-    border: solid 3px #bf66ff;
+    border: solid 3px rgba(153,0,153,0.4);
     border-radius: 5px;
     background-color: rgba(255,255,255, 0.8);
     padding-bottom: 20px;
@@ -234,7 +234,7 @@ html, body {
 
 
 .form button:hover {
-    background-color: #bf66ff;
+    background-color: rgba(153,0,153,0.4);
     color: white;
 }
 
@@ -245,7 +245,7 @@ html, body {
   padding: 4px;
   margin: 2px;
   font-size: 1.25em;
-  border: solid 3px #bf66ff;
+  border: solid 3px rgba(153,0,153,0.4);
   border-radius: 5px;
-  color: #bf66ff; 
+  color: rgba(153,0,153,0.4);
 }
