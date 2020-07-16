@@ -224,13 +224,13 @@ h4 {
     align-items: stretch;
     height: 70vh;
 }
-@media (max-width:480px) {
+@media screen and (max-width:480px) {
     .flexbox-container-contact {
      display: inline;
     }
 }
 
-    @media (max-width:480px) {    
+    @media screen and (max-width:480px) {    
     .flexbox-item-2 {
         display: inline;
         min-height: 100px;
