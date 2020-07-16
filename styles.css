@@ -208,7 +208,6 @@ h4 {
 .flexbox-container-home {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: space-evenly;
     height: 70vh;
 }
