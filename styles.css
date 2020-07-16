@@ -82,16 +82,6 @@ html, body {
     height: 100px;
 }
 
-.home-section-header1 {
-    font-family: 'Kalam', cursive;
-    font-weight: lighter;
-    font-size: 3em;
-    color:  #861386;
-    text-align: left;
-    height: 100px;
-    padding-top: 40px;
-    margin: 20px 20px;
-}
 
 .home-section-header h1 {
     font-family: 'Kalam', cursive;
@@ -109,7 +99,7 @@ html, body {
     font-size: 3em;
     color:  #861386;
     text-align: right;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     margin: 0px;
 
 }
