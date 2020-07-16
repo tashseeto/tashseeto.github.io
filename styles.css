@@ -190,7 +190,7 @@ html, body {
 .flexbox-container {
     display: flex;
     align-items: stretch;
-    height: 90vh;
+    height: 80vh;
 }
 
 .flexbox-item {
