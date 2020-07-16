@@ -203,6 +203,10 @@ html, body {
     display: block;
     min-height: 400px;
 
+}
+
+.flexbox-item-5 {
+    display: block;
 
 }
 
