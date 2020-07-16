@@ -199,6 +199,13 @@ html, body {
     text-align: left;
 }
 
+.flexbox-item-4 {
+    display: block;
+    min-height: 400px;
+
+
+}
+
 .flexbox-item-3 p {
     margin: 10px;
 }
