@@ -216,6 +216,7 @@ html, body {
     min-height: 200px;
     background-color: rgba(117,117,163, 0.55);
     margin: 0px 20px 20px 20px;
+    color: white;
 }
 
 .form {
