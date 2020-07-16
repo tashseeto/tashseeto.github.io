@@ -185,7 +185,8 @@ html, body {
 }
 
 .flexbox-item {
-    margin: 5px;
+    margin: 20px;
+    padding: 20px;
     width: 50%;
     
 }
