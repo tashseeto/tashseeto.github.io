@@ -205,6 +205,13 @@ h4 {
     width: 100%;
 }
 
+.flexbox-container-home {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    height: 70vh;
+}
+
 
 .flexbox-container {
     display: flex;
