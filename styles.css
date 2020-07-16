@@ -333,10 +333,8 @@ h4 {
     padding: 10px 2px;
 }
 
-
 .grid-item1 {
     background-color: rgba(117,117,163, 0.4);
-
 }
 
 .grid-item2 {
@@ -359,6 +357,9 @@ h4 {
     background-color: rgba(117,117,163, 0.2)
 }
 
+#python-img {
+    background-image: url("images/icons8-python-96.png");
+}
 
 .grid-item4:hover {
     cursor: pointer;
