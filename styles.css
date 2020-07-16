@@ -230,7 +230,7 @@ h4 {
     }
 }
 
-    @media (max-width: 480px) {    
+    @media (max-width:480px) {    
     .flexbox-item-2 {
         display: inline;
         min-height: 100px;
@@ -315,6 +315,8 @@ h4 {
     color: white;
     font-size: 1.5em;
 }
+
+
 
 .form button:hover {
     background-color: rgba(153,0,153,0.7);
