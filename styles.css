@@ -216,7 +216,10 @@ html, body {
     min-height: 200px;
     background-color: rgba(117,117,163, 0.55);
     margin: 0px 20px 20px 20px;
-    color: white;
+    color: #f0f0f5;
+    font-size: large;
+    font-weight: normal;
+    text-align: left;
 }
 
 .form {
@@ -243,7 +246,6 @@ html, body {
     color: white;
     font-size: 1.5em;
 }
-
 
 .form button:hover {
     background-color: rgba(153,0,153,0.7);
