@@ -457,29 +457,12 @@ h4 {
         padding: 0px;
         text-align: center;
     }
-}
 
-
-@media (max-width:480px) {
-    .section-header {
-        display: flex;
-        margin: 20px 20px;
-        padding: 20px;
-        height: 100px;
-        background-color: rgba(255,255,255, 0.8);
-    }
-}
-
-@media (max-width:480px) {
     .section-header h1 {
-        font-family: 'Kalam', cursive;
-        font-weight: lighter;
         font-size: 2em;
-        color:  #861386;
-        text-align: left;
-
     }
 }
+
 
 
 @media (max-width:480px) {
