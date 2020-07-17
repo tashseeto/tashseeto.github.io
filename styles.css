@@ -103,7 +103,6 @@
         margin: 25px 20px 20px 20px;
         background-color: rgba(153,0,153,0.2);
         padding: 10px;
-        display: none;
     }
 
     .home-section-header1 {
@@ -1680,7 +1679,7 @@
     }
 
     .work-container {
-        height: 70vh;
+        height: 75vh;
     }
 
     .grid-container {
