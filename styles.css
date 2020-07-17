@@ -135,15 +135,7 @@ h4 {
     border-top: 1.5px solid #861386;
 }
 
-@media (min-width:360px) {
-    .main-footer-container {
-        display: flex;
-        align-items: center;
-        margin: 0px;
-        border-top: 1.5px solid #861386;
-        width:100vw;
-    }
-}
+
 
 
 .footer-header {
@@ -179,6 +171,21 @@ h4 {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+@media (min-width:360px) {
+    .main-container {
+        margin: 0px;
+        padding: 0px;
+        height: 100vh;
+        width: 100vw;
+        background-size: cover;
+        object-fit: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+ 
+}
+
 
 .bg-img-home {
     object-fit: cover;
