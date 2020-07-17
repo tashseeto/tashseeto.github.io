@@ -230,7 +230,7 @@ h4 {
     .flexbox-container-contact {
        display: inline;
        height: 70vh;
-       width: 100vw;
+       max-width: 480px;
     }
 
 }
