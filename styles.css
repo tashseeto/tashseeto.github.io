@@ -12,6 +12,16 @@ html, body {
     padding: 0;
 }
 
+.main-container {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 h4 {
     font-size: 2.5em;
     margin: 0px;
@@ -155,15 +165,7 @@ h4 {
     border-radius: 10%;
 }
 
-.main-container {
-    margin: 0px;
-    padding: 0px;
-    height: 100vh;
-    background-size: cover;
-    object-fit: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
+
 
 .bg-img-home {
     object-fit: cover;
