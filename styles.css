@@ -230,7 +230,7 @@ h4 {
     .flexbox-container-contact {
        display: inline;
        height: 70vh;
-       max-width: 480px;
+       max-width: 400px;
     }
 
 }
@@ -245,7 +245,7 @@ h4 {
     flexbox-item {
         margin: 20px;
         padding: 20px;
-        max-width: 480px;
+        max-width: 400px;
     }
 }
 
@@ -273,7 +273,7 @@ h4 {
         background-color: rgba(117,117,163, 0.6);
         margin: 0px 20px 20px 20px;
         color: #f0f0f5;
-        max-width: 480px;
+        max-width: 400px;
     }
 }
 
