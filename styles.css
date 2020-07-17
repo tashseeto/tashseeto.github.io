@@ -325,8 +325,10 @@ h4 {
 
 @media (min-width:360px) {
     .form {
+        
         padding: 0px;
         margin: 0px;
+        width: 100vw;
     }
 }
 
