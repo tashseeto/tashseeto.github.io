@@ -1404,6 +1404,22 @@
         margin: 0px;
     }
 
+    .section-header-about{
+        margin: 20px 20px;
+        padding: 20px;
+        height: 100px;
+        background-color: rgba(255,255,255, 0.8);
+    }
+
+    .section-header-about h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 3em;
+        color:  #861386;
+        text-align: right;
+        margin: 0px;
+    }
+
     .main-footer {
         background-color: white;
     }
