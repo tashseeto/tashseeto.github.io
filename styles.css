@@ -42,7 +42,7 @@
     }
 
     .nav a {
-        padding: 10px;
+        padding: 5px;
         color: #861386;
         text-decoration: none;
     }
@@ -50,7 +50,7 @@
 
     .main-nav { 
         text-align: center;
-        font-size: 1em;
+        font-size: .5em;
         font-weight: lighter;
         border-bottom: 1.5px solid #861386;
         height: 60px;
@@ -63,7 +63,7 @@
     }
 
     .main-nav li { 
-        padding: 5px;
+        padding: 4px;
         text-align: center
     }
 
