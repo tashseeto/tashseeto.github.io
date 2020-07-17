@@ -797,7 +797,7 @@
     .grid-container {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: .25fr 1.75fr;
+        grid-template-rows: .25fr 1fr;
         column-gap: 10px;
         row-gap: 2px;
         margin: 20px;
@@ -812,8 +812,7 @@
         font-size: 1.5em;
         margin: .5em 0em;
         text-align:  center;
-        color: #861386;
-        
+        color: #861386; 
     }
 
     .grid-item {
