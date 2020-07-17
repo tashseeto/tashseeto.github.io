@@ -1002,13 +1002,13 @@
     }
 
     .footer-nav li {
-        padding: 0 15px;
+        padding: 0 5px;
     }
 
     .footer-nav img {
         width: 40px;
         height: 40px;
-        padding: 5px 5px;
+        padding: 2px 2px;
         background-color: rgba(134,19,134,0.8);
         border-radius: 10%;
     }
