@@ -870,7 +870,6 @@
         background-position: center;
     }
 
-
     h4 {
         font-size: 2.5em;
         margin: 0px;
@@ -889,10 +888,9 @@
         text-decoration: none;
     }
 
-
     .main-nav { 
         text-align: center;
-        font-size: 1.5em;
+        font-size: 1em;
         font-weight: lighter;
         border-bottom: 1.5px solid #861386;
         height: 60px;
@@ -901,11 +899,13 @@
 
     .main-nav ul {
         margin: 0;
-        padding-top: 4px; 
+        padding-top: 4px;
+        padding-left: 10px;
+        padding-right: 10px; 
     }
 
     .main-nav li { 
-        padding: 0 5%;
+        padding: 0;
         text-align: right;
     }
 
@@ -1274,7 +1274,7 @@
         box-sizing: border-box;
         font-family: 'Darker Grotesque', sans-serif;
     }
-    
+
     html, body {
         margin: 0;
         padding: 0;
