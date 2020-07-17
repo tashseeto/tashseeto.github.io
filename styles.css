@@ -244,8 +244,8 @@ h4 {
     .flexbox-item {
         display: flex;
         flex-wrap: wrap;
-        margin: 20px;
-        padding: 20px;
+        margin: 0px;
+        padding: 0px;
         width: 100vw; 
     }
 }
@@ -261,7 +261,7 @@ h4 {
     .flexbox-item-1 {
         flex-direction: column;
         flex-grow: 1;
-        margin: 5px;
+        margin: 20px;
     }
 }
 
@@ -281,7 +281,7 @@ h4 {
         flex-grow: 1;
         max-height: 250px;
         background-color: rgba(117,117,163, 0.6);
-        margin: 5px;
+        margin: 20px;
         color: #f0f0f5;
     }
 
