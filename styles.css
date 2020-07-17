@@ -429,9 +429,6 @@ h4 {
 @media screen and (max-width:480px) {
     .main-container {
         max-width: 480px;
-        background-size: cover;
-        object-fit: cover;
-        background-repeat: no-repeat;
         background-position: center;
     }
 }
