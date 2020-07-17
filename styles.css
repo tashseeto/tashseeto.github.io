@@ -227,8 +227,7 @@ h4 {
 
 @media screen and (min-width:360px){
     .flexbox-container-contact {
-        display: flex;
-        flex-wrap: wrap;
+        display: block
         height: 70vh;
     }
 }
