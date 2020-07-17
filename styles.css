@@ -235,10 +235,13 @@ h4 {
         margin: 0px;
         color: #f0f0f5;
     }
+    .flexbox-item {
+        margin: 20px;
+        padding: 20px;
+        width: 100%;
+    }
 
 }
-
-
 
 
 .flexbox-item {
