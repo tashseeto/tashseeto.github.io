@@ -672,8 +672,9 @@
 
        .flexbox-item-1 {
         display: flex;
-        flex-grow: 0;
+        flex-grow: 1;
         margin: 0px 20px 20px 20px;
+        background-color: rgba(117,117,163, 0.6);
     }
 
     .flexbox-item-2 {
