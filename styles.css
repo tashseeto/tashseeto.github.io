@@ -815,7 +815,7 @@
         padding-bottom: 20px;
         padding-left: 0px;
         padding-right: 0px;
-   
+        position: relative
     }
 
     .grid-item p {
@@ -843,6 +843,8 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
+        background-image: url("images/icons8-html-5-48.png");
+        background-image: url("Images/icons8-css3-48.png");
     }
 
     .grid-item5 {
