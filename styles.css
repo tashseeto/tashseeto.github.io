@@ -230,9 +230,7 @@ h4 {
     .flexbox-container-contact {
         flex-direction: column;
         border: 2px pink solid;
-        margin: 5px;
     }
-
 
 }
 
