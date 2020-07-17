@@ -1490,6 +1490,7 @@
 
     .flexbox-container-about {
         display: flex;
+        justify-content: flex-end;
         align-items: stretch;
         height: 70vh;
     }
