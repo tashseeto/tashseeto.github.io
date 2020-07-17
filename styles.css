@@ -135,6 +135,17 @@ h4 {
     border-top: 1.5px solid #861386;
 }
 
+@media (min-width:360px) {
+    .main-footer-container {
+        display: flex;
+        align-items: center;
+        margin: 0px;
+        border-top: 1.5px solid #861386;
+        width:100vw;
+    }
+}
+
+
 .footer-header {
     color: #7575a3;
     color: white;
