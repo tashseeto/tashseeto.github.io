@@ -801,8 +801,8 @@
         column-gap: 10px;
         row-gap: 2px;
         margin: 20px;
-        padding-top: 60px;
-        padding-bottom: 60px;
+        padding-top: 30px;
+        padding-bottom: 30px;
         padding-left: 0px;
         padding-right: 0px;
         position: relative;
@@ -1250,7 +1250,6 @@
         margin: .5em 0em;
         text-align:  center;
         color: #861386;
-        
     }
 
     .grid-item {
