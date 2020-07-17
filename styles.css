@@ -653,7 +653,8 @@
     }
 
     .flexbox-container-contact {
-        display: block;
+        display:flex;
+        flex-wrap: wrap;
         height: 75vh;
     }
 
