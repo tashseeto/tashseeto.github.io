@@ -226,7 +226,14 @@ h4 {
     height: 70vh;
 }
 
+@media (min-width:360px) {
+    .flexbox-container-contact {
+        flex-direction: column;
 
+    }
+
+
+}
 
 .flexbox-item {
     margin: 20px;
