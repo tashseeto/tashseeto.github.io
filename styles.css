@@ -280,7 +280,6 @@ h4 {
     .flexbox-item-2 {
         flex-direction: column;
         flex-grow: 1;
-        max-height: 250px;
         background-color: rgba(117,117,163, 0.6);
         margin: 20px;
         padding: 10px;
