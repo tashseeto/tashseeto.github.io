@@ -395,6 +395,9 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
+        background-image: url("Images/icons8-css3-48.png");
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
     .grid-item5 {
@@ -800,7 +803,7 @@
     color: rgba(153,0,153,0.7);
     }
 
-    .work-container {;
+    .work-container {
         height: 70vh;
     }
 
@@ -1718,6 +1721,9 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
+        background-image: url("Images/icons8-css3-48.png");
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
     .grid-item5 {
