@@ -1289,11 +1289,13 @@
         background-position: center;
     }
 
-    .grid-item4:hover .grid-item5:hover  {
+    .grid-item4:hover {
         cursor: pointer;
     }
 
-
+    .grid-item5:hover {
+        cursor: pointer;
+    }
 
     .grid-item6:hover {
         cursor: pointer;
