@@ -1074,9 +1074,11 @@
     }
 
     .flexbox-container-contact {
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
         align-items: stretch;
         height: 70vh;
+        width: 50%;
     }
 
     .flexbox-item {
