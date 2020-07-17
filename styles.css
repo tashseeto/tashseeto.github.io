@@ -233,7 +233,6 @@ h4 {
 }
 
 
-
 .flexbox-item {
     margin: 20px;
     padding: 20px;
@@ -244,7 +243,7 @@ h4 {
     .flexbox-item {
         margin: 20px;
         padding: 20px;
-        width: 1000%;
+        width: 100%;
     }
 }
 
