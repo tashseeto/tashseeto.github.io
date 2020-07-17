@@ -244,7 +244,7 @@ h4 {
     .flexbox-item {
         display: flex;
         flex-wrap: wrap;
-        margin: 20px;
+        margin: 0px 20px 0px 20px;;
         padding: 20px;
         width: 100vw; 
     }
