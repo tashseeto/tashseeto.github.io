@@ -108,7 +108,7 @@
     .home-section-header1 {
         margin: 20px 20px 0px 20px;
         padding: 20px 20px 0px 20px;
-        height: 50px;
+        height: 100px;
     }
 
     .home-section-header1 h1 {
@@ -186,7 +186,8 @@
         border-radius: 10%;
     }
 
-    .bg-img-home {
+    #bg-img-home {
+        background-image: url("Images/NSeeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
