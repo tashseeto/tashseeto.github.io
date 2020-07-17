@@ -883,14 +883,14 @@
     }
 
     .nav a {
-        padding: .7em;
+        padding: 10px;
         color: #861386;
         text-decoration: none;
     }
 
     .main-nav { 
         text-align: center;
-        font-size: 2em;
+        font-size: 1.5em;
         font-weight: lighter;
         border-bottom: 1.5px solid #861386;
         height: 60px;
@@ -906,7 +906,7 @@
 
     .main-nav li { 
         padding: 0;
-        text-align: right;
+        text-align: center;
     }
 
     .main-nav a:hover {
