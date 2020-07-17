@@ -225,6 +225,7 @@
         display:flex;
         flex-wrap: wrap;
         height: 75vh;
+        align-items: center;
     }
 
     .flexbox-container-contact {
