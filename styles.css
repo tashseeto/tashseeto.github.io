@@ -1460,8 +1460,8 @@
         background-image: url("images/NSeeto-About2.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
-        object-fit: cover;
-        height: 60%;
+        object-fit: contain;
+        height: 100%;
         width: 100%;
     }
 
