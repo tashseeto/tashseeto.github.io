@@ -425,7 +425,7 @@ h4 {
 }
 
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:480px) {
     .section-header {
         display: flex;
         margin: 20px 20px;
@@ -436,7 +436,7 @@ h4 {
 }
 
 
-@media screen and (min-width:360px) {
+@media screen and (min-width:480px) {
     .section-header h1 {
         font-family: 'Kalam', cursive;
         font-weight: lighter;
@@ -448,7 +448,7 @@ h4 {
 }
 
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:480px) {
     .main-container {
         margin: 0px;
         padding: 0px;
@@ -462,7 +462,7 @@ h4 {
  
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:480px) {
     .flexbox-container-contact {
         flex-direction: column;
         border: 2px pink solid;
@@ -472,7 +472,7 @@ h4 {
 
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:480px) {
     .flexbox-item {
         display: flex;
         margin: 0px 20px 0px 20px;
@@ -493,7 +493,7 @@ h4 {
     }
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:480px) {
     .flexbox-item-2 {
         flex-direction: column;
         flex-grow: 1;
@@ -507,7 +507,7 @@ h4 {
 }
 
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:360px) {
     .form {
         padding: 0px;
         margin: 0px;
@@ -515,7 +515,7 @@ h4 {
     }
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:360px) {
     .form-item {
         padding-bottom: 10px;
         margin: 10px;
@@ -523,7 +523,7 @@ h4 {
     }
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:360px) {
     .form-item input, .form textarea {
         display: block;
         border: solid 1px rgba(153,0,153,0.7);
@@ -535,7 +535,7 @@ h4 {
     }
 }
 
-@media screen and (min-width:360px) {
+@media screen and (max-width:360px) {
     .form label {
         display: block;
         color: white;
