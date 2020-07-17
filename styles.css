@@ -244,6 +244,7 @@ h4 {
 @media (min-width:360px) {
     .flexbox-item {
         display: flex;
+        flex-wrap: wrap;
         margin: 20px;
         padding: 20px;
         width: 100%;
