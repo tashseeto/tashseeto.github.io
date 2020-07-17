@@ -247,8 +247,7 @@ h4 {
 @media (min-width:360px) {
     .flexbox-container-contact {
         display: block;
-        flex-direction: column;
-        flex-wrap: wrap;
+    s
         border: 2px pink solid;
         width: 100vw;
     }
