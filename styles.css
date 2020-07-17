@@ -229,6 +229,7 @@ h4 {
 @media screen and (min-width:360px) and (max-width:480px) {
     .flexbox-container-contact {
        display: inline;
+       height: 70vh;
     }
 
 }
