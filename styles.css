@@ -1075,6 +1075,7 @@
 
     .flexbox-container-contact {
         display: flex;
+        justify-content: flex-start;
         align-items: stretch;
         height: 70vh;
     }
