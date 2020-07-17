@@ -845,6 +845,8 @@
         background-color: rgba(117,117,163, 0.2);
         background-image: url("images/icons8-html-5-48.png");
         background-image: url("Images/icons8-css3-48.png");
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
     .grid-item5 {
