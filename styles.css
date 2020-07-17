@@ -225,7 +225,6 @@
         display:flex;
         flex-wrap: wrap;
         height: 75vh;
-        align-items: flex-start
     }
 
     .flexbox-container-contact {
@@ -261,7 +260,6 @@
         background-color: rgba(117,117,163, 0.6);
         margin: 0px 20px 0px 20px;
         color: #f0f0f5;
-        align-items: flex-start;
     }
 
     .flexbox-item-3 {
