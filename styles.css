@@ -418,11 +418,7 @@ h4 {
     transition: visibility 0s, opacity 0.5s linear;   
 }
 
-@media screen and (max-width:480px) {
-    .main-container {
-        background-position: center;
-    }
-}
+
 
 
 
