@@ -533,6 +533,15 @@
         background-color: rgba(255,255,255, 0.8);
     }
 
+    .section-header-work h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 3em;
+        color:  #861386;
+        text-align: left;
+        margin: 0px;
+    }
+
     .section-header h1 {
         font-family: 'Kalam', cursive;
         font-weight: lighter;
