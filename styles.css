@@ -224,7 +224,7 @@
     .flexbox-container-about {
         display:flex;
         flex-wrap: wrap;
-        height: 70vh;
+        height: 75vh;
     }
 
     .flexbox-container-contact {
