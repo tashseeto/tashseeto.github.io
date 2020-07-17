@@ -246,16 +246,13 @@ h4 {
         flex-wrap: wrap;
         margin: 20px;
         padding: 20px;
-        width: 100vw;
-        
+        width: 100vw; 
     }
 }
-
 
 .flexbox-item-1 {
     display: flex;
     flex-grow: 1;
-    min-height: 200px;
     margin: 0px 20px 20px 20px;
 }
 
@@ -264,7 +261,6 @@ h4 {
     .flexbox-item-1 {
         flex-direction: column;
         flex-grow: 1;
-        max height: 200px;
         margin: 0px 20px 20px 20px;
     }
 }
