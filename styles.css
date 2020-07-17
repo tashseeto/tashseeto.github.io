@@ -231,6 +231,7 @@ h4 {
         flex-direction: column;
         flex-wrap: wrap;
         border: 2px pink solid;
+        width: 100vw;
     }
 
 }
