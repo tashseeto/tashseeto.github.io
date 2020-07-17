@@ -627,7 +627,8 @@
         border-radius: 10%;
     }
 
-    .bg-img-home {
+    #bg-img-home {
+        background-image: url("Images/NSeeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
