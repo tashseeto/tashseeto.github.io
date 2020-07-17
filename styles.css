@@ -242,17 +242,13 @@ h4 {
 }
 
 @media screen and (min-width:360px) and (max-width:480px) {
-    .flexbox-item-2 {
-        display: block;
-        max-height: 250px;
-        background-color: rgba(117,117,163, 0.6);
-        margin: 0px 10px 10px 10px;
-        color: #f0f0f5;
-        width: 100vw;
+    flexbox-item {
+        margin: 20px;
+        padding: 10px;
+        width: 100%;
     }
-
-
 }
+
 
 .flexbox-item-1 {
     display: flex;
@@ -270,6 +266,16 @@ h4 {
     color: #f0f0f5;
 }
 
+@media screen and (min-width:360px) and (max-width:480px) {
+    .flexbox-item-2 {
+        display: block;
+        max-height: 250px;
+        background-color: rgba(117,117,163, 0.6);
+        margin: 0px 10px 10px 10px;
+        color: #f0f0f5;
+        width: 100vw;
+    }
+}
 
 .flexbox-item-3 p {
     margin: 10px;
