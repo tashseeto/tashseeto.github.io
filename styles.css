@@ -68,12 +68,22 @@ h4 {
     background-color: rgba(255,255,255, 0.8);
 }
 
+@media screen and (min-width:360px) and (max-width:480px) {
+    .section-header h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 2em;
+        color:  #861386;
+        text-align: left;
+        margin: 0px;
+    }
+}
+
+
 .section-header h1 {
-    font-family: 'Parisienne', cursive;
     font-family: 'Kalam', cursive;
     font-weight: lighter;
     font-size: 3em;
-    color: #7575a3;
     color:  #861386;
     text-align: left;
     margin: 0px;
