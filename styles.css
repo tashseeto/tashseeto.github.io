@@ -241,7 +241,14 @@ h4 {
     width: 100%;
 }
 
-
+@media (min-width:360px) {
+    .flexbox-item {
+        display: flex;
+        margin: 20px;
+        padding: 20px;
+        width: 100%;
+    }
+}
 
 
 .flexbox-item-1 {
