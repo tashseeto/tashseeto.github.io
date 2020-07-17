@@ -12,6 +12,16 @@ html, body {
     padding: 0;
 }
 
+@media screen and (max-width:480px) {
+    .main-container {
+        max-width: 480px;
+        background-size: cover;
+        object-fit: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
 .main-container {
     margin: 0px;
     padding: 0px;
@@ -425,15 +435,7 @@ h4 {
 }
 
 
-@media screen and (max-width:480px) {
-    .main-container {
-        max-width: 480px;
-        background-size: cover;
-        object-fit: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-}
+
 
 
 @media screen and (max-width:480px) {
