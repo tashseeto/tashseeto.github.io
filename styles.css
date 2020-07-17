@@ -448,19 +448,6 @@ h4 {
 }
 
 
-@media screen and (max-width:480px) {
-    .main-container {
-        margin: 0px;
-        padding: 0px;
-        height: 100vh;
-        width: 100vw;
-        background-size: cover;
-        object-fit: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
- 
-}
 
 @media screen and (max-width:480px) {
     .flexbox-container-contact {
@@ -505,7 +492,6 @@ h4 {
     }
 
 }
-
 
 @media screen and (max-width:480px) {
     .form {
