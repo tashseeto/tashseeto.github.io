@@ -266,11 +266,11 @@
         display: block;
         min-height: 200px;
         background-color: rgba(117,117,163, 0.85);
-        margin: 0px 20px 20px 20px;
+        margin: 0px;
         color: #f0f0f5;
         font-size: 1.1em;
         font-weight: normal;
-        text-align: left;
+        text-align: justify;
     }
 
     .flexbox-item-3 p {
