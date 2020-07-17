@@ -166,7 +166,7 @@ h4 {
 }
 
 
-#bg-img-home {
+.bg-img-home {
     object-fit: cover;
     background-size: cover;
     width: 100%;
