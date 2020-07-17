@@ -328,13 +328,11 @@
         width: 100%;
     }
     
-
     .form label {
         display: block;
         color: white;
         font-size: 1.5em;
     }
-
 
     .form button:hover {
         background-color: rgba(153,0,153,0.7);
@@ -566,7 +564,7 @@
 
     .home-section-header2 {
         margin: 0px 20px 20px 20px;
-        padding: 0px 20px 20px 20px;
+        padding: 10px 20px 20px 20px;
         height: 100px;
     }
 
@@ -769,13 +767,11 @@
         width: 100%;
     }
     
-
     .form label {
         display: block;
         color: white;
         font-size: 1.5em;
     }
-
 
     .form button:hover {
         background-color: rgba(153,0,153,0.7);
