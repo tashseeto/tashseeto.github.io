@@ -224,16 +224,16 @@ h4 {
     align-items: stretch;
     height: 70vh;
 }
-@media screen and (min-width:360px) and (max-width:480px) {
-  
+
+
+@media screen and (min-width:360px){
     .flexbox-item {
         margin: 20px;
         padding: 20px;
-        width: 100%;
+        width: 1000%;
     }
 
 }
-
 
 .flexbox-item {
     margin: 20px;
@@ -255,6 +255,15 @@ h4 {
     margin: 0px 20px 20px 20px;
     color: #f0f0f5;
 }
+
+@media screen and (min-width:360px){
+    .flexbox-item-2 {
+        display: inline;
+        min-height: 200px;
+        background-color: rgba(117,117,163, 0.6);
+        margin: 0px;
+        color: #f0f0f5;
+    }
 
 
 .flexbox-item-3 p {
