@@ -150,8 +150,6 @@ h4 {
 }
 
 .footer-header {
-    color: #7575a3;
-    color: white;
     color: #861386;
     padding-left: 20px;
 }
@@ -461,19 +459,16 @@ h4 {
     .section-header h1 {
         font-size: 2em;
     }
-}
 
-
-
-@media (max-width:480px) {
     .flexbox-container-contact {
         flex-direction: column;
         border: 2px pink solid;
-        width: 100vw;
+        max-width: 480px;
 
     }
-
 }
+
+
 
 @media (max-width:480px) {
     .flexbox-item {
