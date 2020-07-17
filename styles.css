@@ -226,12 +226,18 @@ h4 {
 }
 
 
+@media screen and (min-width:360px) and (max-width:480px) {
+    .flexbox-container-contact {
+        height: 70vh;
+    }
+
+}
+
 .flexbox-item {
     margin: 20px;
     padding: 20px;
     width: 100%;
 }
-
 
 
 .flexbox-item-1 {
