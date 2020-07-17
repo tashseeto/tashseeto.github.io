@@ -800,12 +800,13 @@
     color: rgba(153,0,153,0.7);
     }
 
-    .work-container {
+    .work-container {;
         height: 70vh;
     }
 
     .grid-container {
         display: grid;
+        grid-area: auto;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: .25fr .5fr;
         column-gap: 10px;
