@@ -216,6 +216,12 @@ h4 {
     height: 70vh;
 }
 
+.flexbox-container-about {
+    display: flex;
+    align-items: stretch;
+    height: 70vh;
+}
+
 .flexbox-container-contact {
     display: flex;
     align-items: stretch;
@@ -223,6 +229,12 @@ h4 {
 }
 
 .flexbox-item {
+    margin: 20px;
+    padding: 20px;
+    width: 100%;
+}
+
+.flexbox-item-about {
     margin: 20px;
     padding: 20px;
     width: 100%;
