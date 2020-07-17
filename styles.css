@@ -93,16 +93,7 @@ h4 {
     margin: 0px;
 }
 
-@media (max-width:480px) {
-    .section-header h1 {
-        font-family: 'Kalam', cursive;
-        font-weight: lighter;
-        font-size: 1.5em;
-        color:  #861386;
-        text-align: left;
 
-    }
-}
 
 .section-header2 h1 {
     font-family: 'Kalam', cursive;
@@ -452,8 +443,16 @@ h4 {
     }
 }
 
+@media (max-width:480px) {
+    .section-header h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 1.5em;
+        color:  #861386;
+        text-align: left;
 
-
+    }
+}
 
 
 
@@ -478,7 +477,7 @@ h4 {
 }
 
 
-@media screen and (min-width:480px) {
+@media screen and (max-width:480px) {
     .flexbox-item-1 {
         flex-direction: column;
         flex-grow: 1;
