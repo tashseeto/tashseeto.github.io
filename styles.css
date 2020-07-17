@@ -187,7 +187,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("Images/nseeto-home.png");
         object-fit: cover;
         background-size: cover;
         background-position: center;
@@ -197,7 +197,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/nseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -208,7 +208,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/nseeto-about2.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -641,7 +641,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("Images/nseeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
@@ -650,7 +650,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/nseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -661,7 +661,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/nseeto-about2.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1081,7 +1081,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("Images/nseeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
@@ -1091,7 +1091,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/nseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -1102,7 +1102,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/nseeto-about2.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1290,7 +1290,7 @@
 
     .grid-item5 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("images/icons8-python-96.png");
+        background-image: url("images/icons8-css3-48.png");
         background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
@@ -1516,7 +1516,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("Images/nseeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
@@ -1525,7 +1525,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/nseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -1536,7 +1536,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/nseeto-about2.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1729,7 +1729,7 @@
 
     .grid-item5 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("images/icons8-python-96.png");
+        background-image: url("imagess/icons8-python-96");
         background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
