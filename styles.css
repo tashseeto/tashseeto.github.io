@@ -806,7 +806,6 @@
 
     .grid-container {
         display: grid;
-        grid-area: auto;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: .25fr .5fr;
         column-gap: 10px;
@@ -816,7 +815,7 @@
         padding-bottom: 20px;
         padding-left: 0px;
         padding-right: 0px;
-        position: relative;
+   
     }
 
     .grid-item p {
