@@ -431,6 +431,11 @@ h4 {
 }
 
 @media (max-width:480px) {
+    .main-container {
+        min-width: 480px;
+    }
+    
+    
     .main-nav { 
         text-align: center;
         font-size: 1.5em;
