@@ -268,7 +268,7 @@ h4 {
         display: inline;
         min-height: 200px;
         background-color: rgba(117,117,163, 0.6);
-        margin: 0px;
+        margin: 0px 20px 20px 20px;
         color: #f0f0f5;
     }
 
@@ -305,6 +305,20 @@ h4 {
     padding: 10px;
     margin: 0px;
 }
+
+@media screen and (min-width:360px){
+    .form {
+        padding: 10px;
+        margin: 0px;
+    }
+
+    .form-item {
+        padding-bottom: 10px;
+        margin: 5px;
+    }
+
+}
+
 
 .form-item {
     padding-bottom: 20px;
