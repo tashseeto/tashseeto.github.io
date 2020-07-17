@@ -68,17 +68,7 @@ h4 {
     background-color: rgba(255,255,255, 0.8);
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .section-header h1 {
-        font-family: 'Kalam', cursive;
-        font-weight: lighter;
-        font-size: 2em;
-        color:  #861386;
-        text-align: left;
-        margin: 0px;
-        padding: 0px;
-    }
-}
+
 
 
 .section-header h1 {
@@ -237,14 +227,6 @@ h4 {
 }
 
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .flexbox-container-contact {
-       display: inline;
-       height: 70vh;
-       max-width: 420px;
-    }
-
-}
 
 .flexbox-item {
     margin: 20px;
@@ -252,13 +234,7 @@ h4 {
     width: 100%;
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    flexbox-item {
-        margin: 20px;
-        padding: 20px;
-        max-width: 420px;
-    }
-}
+
 
 
 .flexbox-item-1 {
@@ -277,16 +253,7 @@ h4 {
     color: #f0f0f5;
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .flexbox-item-2 {
-        display: block;
-        max-height: 250px;
-        background-color: rgba(117,117,163, 0.6);
-        margin: 0px 20px 20px 20px;
-        color: #f0f0f5;
-        max-width: 420px;
-    }
-}
+
 
 .flexbox-item-3 p {
     margin: 10px;
@@ -321,24 +288,14 @@ h4 {
     margin: 0px;
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .form {
-        padding: 0px;
-        margin: 0px;
-    }
-}
+
 
 .form-item {
     padding-bottom: 20px;
     margin: 10px;
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .form-item {
-        padding-bottom: 5px;
-        margin: 0px;
-    }
-}
+
 
 
 .form-item input, .form textarea {
@@ -349,17 +306,7 @@ h4 {
     padding: 8px;
     width: 100%;
 }
-
-@media screen and (min-width:360px) and (max-width:480px) {
-    .form-item input, .form textarea {
-        border: solid 1px rgba(153,0,153,0.7);
-        border-radius: 5px;
-        background-color: rgba(255,255,255, 0.8);
-        padding-bottom: 5px;
-        padding: 2px;
-        max-width: 400px;
-    }
-}   
+ 
 
 .form label {
     display: block;
@@ -367,13 +314,7 @@ h4 {
     font-size: 1.5em;
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .form label {
-        display: block;
-        color: white;
-        font-size: 1em;
-    }
-}
+
 
 
 
@@ -394,20 +335,7 @@ h4 {
   color: rgba(153,0,153,0.7);
 }
 
-@media screen and (min-width:360px) and (max-width:480px) {
-    .form button {
-        width: 70px;
-        text-align: center;
-        height: 20px;
-        padding: 4px;
-        margin: 2px;
-        font-size: 1em;
-        border: solid 1px rgba(153,0,153,0.7);
-        border-radius: 5px;
-        color: rgba(153,0,153,0.7);
-      }
 
-    }
 
 
 .work-container {
