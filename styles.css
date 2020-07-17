@@ -654,7 +654,7 @@
 
     .flexbox-container-contact {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         align-items: stretch;
         height: 75vh;
     }
