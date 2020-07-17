@@ -988,9 +988,6 @@
 
     .main-footer {
         background-color: white;
-        position: absolute;
-        bottom: 0;
-        width: 100%;
     }
 
     .main-footer-container {
