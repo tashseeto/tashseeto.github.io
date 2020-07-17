@@ -1496,8 +1496,10 @@
 
     .flexbox-container-contact {
         display: flex;
+        flex-wrap: wrap;
         align-items: stretch;
         height: 72vh;
+        width: 50%;
     }
 
     .flexbox-item {
