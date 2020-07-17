@@ -7,7 +7,425 @@
     font-family: 'Darker Grotesque', sans-serif;
 }
 
+@media (max-width: 414px) {
+    * {
+        box-sizing: border-box;
+        font-family: 'Darker Grotesque', sans-serif;
+    }
 
+    html, body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .main-container {
+        margin: 0px;
+        padding: 0px;
+        height: 100vh;
+        max-width: 100%;
+        background-size: cover;
+        object-fit: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    h4 {
+        font-size: 2.5em;
+        margin: 0px;
+        padding: 20px;
+        text-align: center;
+        color:  #861386;
+    }
+
+    .nav li {
+        display: inline-block;
+    }
+
+    .nav a {
+        padding: 10px;
+        color: #861386;
+        text-decoration: none;
+    }
+
+
+    .main-nav { 
+        text-align: center;
+        font-size: 1em;
+        font-weight: lighter;
+        border-bottom: 1.5px solid #861386;
+        height: 60px;
+        background-color: white;
+    }
+
+    .main-nav ul {
+        margin: 0;
+        padding: 2px; 
+    }
+
+    .main-nav li { 
+        padding: 5px;
+        text-align: center
+    }
+
+    .main-nav a:hover {
+        color: #ca80ff;
+        background-color: rgba(255,255,255, .3);
+    }
+
+    .main-header {
+        background-size: cover;
+        padding: 0px;
+        height: 60px;
+        width: 100%;
+    }
+
+    .section-header {
+        margin: 20px 20px;
+        padding: 20px;
+        height: 100px;
+        background-color: rgba(255,255,255, 0.8);
+    }
+
+    .section-header h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 3em;
+        color:  #861386;
+        text-align: left;
+        margin: 0px;
+    }
+
+    .section-header2 h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 2.5em;
+        color:  #861386;
+        text-align: center;
+        margin: 25px 20px 20px 20px;
+        background-color: rgba(153,0,153,0.2);
+        padding: 10px;
+    }
+
+    .home-section-header1 {
+        margin: 20px 20px 20px 20px;
+        padding: 20px;
+        height: 100px;
+    }
+
+    .home-section-header1 h1 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 3em;
+        color:  #861386;
+        text-align: left;
+        padding-top: 32px;
+        margin: 0px;
+    }
+
+    .home-section-header2 {
+        margin: 20px 20px 20px 20px;
+        padding: 0px 20px 20px 20px;
+        height: 100px;
+    }
+
+    .home-section-header2 h2 {
+        font-family: 'Kalam', cursive;
+        font-weight: lighter;
+        font-size: 3em;
+        color:  #861386;
+        text-align: right;
+        padding-top: 20px;
+        margin: 0px;
+    }
+
+    .main-footer {
+        background-color: white;
+    }
+
+    .main-footer-container {
+        display: flex;
+        align-items: center;
+        margin: 0px;
+        border-top: 1.5px solid #861386;
+    }
+
+    .footer-header {
+        color: #861386;
+        padding-left: 20px;
+    }
+
+    .main-footer-container ul {
+        flex-grow: 1;
+        text-align: end;
+    }
+
+    .footer-nav li {
+        padding: 0 .5em;
+    }
+
+    .footer-nav img {
+        width: 40px;
+        height: 40px;
+        padding: 5px 5px;
+        background-color: rgba(134,19,134,0.8);
+        border-radius: 10%;
+    }
+
+    .bg-img-home {
+        object-fit: cover;
+        background-size: cover;
+        width: 100%;
+        height: 400px;
+        margin: 60px 0px 60px 0px;
+    }
+
+    #bg-img-contact {
+        background-image: url("images/NSeeto-Contact.png");
+        background-color: rgba(0, 0, 0, 0.3);
+        background-blend-mode: overlay;
+        height: 100%; 
+        width: 100%;
+        background-repeat: no-repeat;
+        object-fit: cover;
+        background-size: cover;
+    }
+
+    #bg-img-about {
+        background-image: url("images/NSeeto-About2.png");
+        background-color: rgba(0, 0, 0, 0.2);
+        background-blend-mode: overlay;
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+    }
+
+    #bg-img-work {
+        background-image: url("images/floweroflife_repeating.jpg");
+        background-color: rgba(255, 255, 255, 0.9);
+        background-blend-mode: overlay;
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+    }
+
+    .flexbox-container {
+        display: flex;
+        align-items: stretch;
+        height: 75vh;
+    }
+
+    .flexbox-container-home {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 70vh;
+    }
+
+    .flexbox-container-about {
+        display: flex;
+        align-items: stretch;
+        height: 70vh;
+    }
+
+    .flexbox-container-contact {
+        display: flex;
+        align-items: stretch;
+        height: 75vh;
+    }
+
+    .flexbox-item {
+        margin: 20px;
+        padding: 20px;
+        width: 100%;
+    }
+
+    .flexbox-item-about {
+        margin: 20px;
+        padding: 20px;
+        width: 100%;
+    }
+
+    .flexbox-item-1 {
+        display: flex;
+        flex-grow: 1;
+        margin: 0px 20px 20px 20px;
+    }
+
+    .flexbox-item-2 {
+        display: block;
+        flex-grow: 1;
+        min-height: 250px;
+        background-color: rgba(117,117,163, 0.6);
+        margin: 0px 20px 20px 20px;
+        color: #f0f0f5;
+    }
+
+    .flexbox-item-3 {
+        display: block;
+        min-height: 200px;
+        background-color: rgba(117,117,163, 0.85);
+        margin: 0px 20px 20px 20px;
+        color: #f0f0f5;
+        font-size: 1.1em;
+        font-weight: normal;
+        text-align: left;
+    }
+
+    .flexbox-item-3 p {
+        margin: 10px;
+    }
+
+    .flexbox-item-4 {
+        display: block;
+        min-height: 400px;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .flexbox-item-5 {
+        display: block;
+        margin-top: 10px;
+        padding-top: 10px;
+    }
+
+    .form {
+        padding: 10px;
+        margin: 0px;
+    }
+
+    .form-item {
+        padding-bottom: 20px;
+        margin: 10px;
+    }
+
+    .form-item input, .form textarea {
+        border: solid 3px rgba(153,0,153,0.7);
+        border-radius: 5px;
+        background-color: rgba(255,255,255, 0.8);
+        padding-bottom: 20px;
+        padding: 8px;
+        width: 100%;
+    }
+    
+
+    .form label {
+        display: block;
+        color: white;
+        font-size: 1.5em;
+    }
+
+
+    .form button:hover {
+        background-color: rgba(153,0,153,0.7);
+        color: white;
+    }
+
+    .form button {
+    width: 70px;
+    text-align: center;
+    height: 50px;
+    padding: 4px;
+    margin: 2px;
+    font-size: 1.25em;
+    border: solid 3px rgba(153,0,153,0.7);
+    border-radius: 5px;
+    color: rgba(153,0,153,0.7);
+    }
+
+    .work-container {
+        height: 70vh;
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: .25fr 1.75fr;
+        column-gap: 10px;
+        row-gap: 2px;
+        margin: 20px;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 0px;
+        padding-right: 0px;
+        position: relative;
+    }
+
+    .grid-item p {
+        font-size: 1.5em;
+        margin: .5em 0em;
+        text-align:  center;
+        color: #861386;
+        
+    }
+
+    .grid-item {
+        padding: 10px 2px;
+    }
+
+    .grid-item1 {
+        background-color: rgba(117,117,163, 0.4);
+    }
+
+    .grid-item2 {
+        background-color: rgba(117,117,163, 0.4);
+    }
+
+    .grid-item3 {
+        background-color: rgba(117,117,163, 0.4)
+    }
+
+    .grid-item4 {
+        background-color: rgba(117,117,163, 0.2);
+    }
+
+    .grid-item5 {
+        background-color: rgba(117,117,163, 0.2);
+        background-image: url("images/icons8-python-96.png");
+        background-blend-mode: overlay;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .grid-item6 {
+        background-color: rgba(117,117,163, 0.2);
+        background-image: url("Images/icons8-react-native-96.png");
+        background-blend-mode: overlay;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .grid-item4:hover {
+        cursor: pointer;
+    }
+
+    .grid-item5:hover {
+        cursor: pointer;
+    }
+
+    .grid-item6:hover {
+        cursor: pointer;
+    }
+
+    .grid-item:hover .details {
+        width: 100%;
+        height: 100%;
+        padding: 15px 15px;
+        visibility: visible;
+        opacity: 0.7;
+    }
+
+    .details {
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: white;
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: visibility 0s, opacity 0.5s linear; 
+        transition: visibility 0s, opacity 0.5s linear;   
+    }
+}
 
 @media (max-width:767px) {
     * {
