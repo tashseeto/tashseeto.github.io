@@ -245,6 +245,16 @@ h4 {
 }
 
 
+@media (min-width:360px) {
+    .flexbox-item-1 {
+        display: inline;
+        flex-grow: 1;
+        min-height: 200px;
+        margin: 0px 20px 20px 20px;
+    }
+}
+
+
 .flexbox-item-2 {
     display: block;
     flex-grow: 1;
@@ -254,6 +264,17 @@ h4 {
     color: #f0f0f5;
 }
 
+@media (min-width:360px) {
+    .flexbox-item-2 {
+        display: inline;
+        flex-grow: 1;
+        min-height: 250px;
+        background-color: rgba(117,117,163, 0.6);
+        margin: 0px 20px 20px 20px;
+        color: #f0f0f5;
+    }
+
+}
 
 
 .flexbox-item-3 p {
