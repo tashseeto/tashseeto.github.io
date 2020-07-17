@@ -93,7 +93,7 @@ h4 {
     margin: 0px;
 }
 
-@media (min-width:480px) {
+@media (max-width:480px) {
     .section-header h1 {
         font-family: 'Kalam', cursive;
         font-weight: lighter;
