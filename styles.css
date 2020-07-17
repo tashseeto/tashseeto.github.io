@@ -434,7 +434,11 @@ h4 {
 
 @media (max-width:480px) {
     .main-nav { 
-        font-size: 2em;
+        font-size: 1em;
+    }
+
+    .nav a {
+        padding: .2em;
     }
 }
 
