@@ -1085,7 +1085,7 @@
     .flexbox-item {
         margin: 20px;
         padding: 20px;
-        width: 50%;
+        width: 100%;
     }
 
     .flexbox-item-about {
