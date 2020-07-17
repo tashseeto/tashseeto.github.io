@@ -227,10 +227,9 @@ h4 {
 @media screen and (min-width:360px) and (max-width:480px) {
     .flexbox-container-contact {
      display: flex;
-     flex-direction: row;
     }
     .flexbox-item-2 {
-        display: inline;
+        display: flex;
         min-height: 100px;
         background-color: rgba(117,117,163, 0.6);
         margin: 0px;
