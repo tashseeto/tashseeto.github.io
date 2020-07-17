@@ -1069,8 +1069,9 @@
 
     .flexbox-container-about {
         display: flex;
+        justify-content: flex-end;
         align-items: stretch;
-        height: 70vh;
+        height: 72vh;
     }
 
     .flexbox-container-contact {
@@ -1295,7 +1296,6 @@
         background-repeat: no-repeat;
         background-position: center;
     }
-
 
     h4 {
         font-size: 2.5em;
