@@ -657,7 +657,7 @@
     .flexbox-container-contact {
         display: flex;
         align-items: stretch;
-        height: 65vh;
+        height: 70vh;
     }
 
     .flexbox-item {
