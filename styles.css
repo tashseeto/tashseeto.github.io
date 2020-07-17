@@ -661,13 +661,13 @@
     .flexbox-item {
         margin: 20px;
         padding: 20px;
-        width: 70%;
+        width: 50%;
     }
 
     .flexbox-item-about {
         margin: 20px;
         padding: 20px;
-        width: 100%;
+        width: 50%;
     }
 
        .flexbox-item-1 {
