@@ -321,7 +321,12 @@ h4 {
     margin: 0px;
 }
 
-
+@media (min-width:360px) {
+    .form {
+        padding: 0px;
+        margin: 0px;
+    }
+}
 
 .form-item {
     padding-bottom: 20px;
