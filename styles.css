@@ -1490,8 +1490,10 @@
 
     .flexbox-container-about {
         display: flex;
+        flex-wrap: wrap;
         align-items: stretch;
-        height: 70vh;
+        height: 72vh;
+        width: 50%;
     }
 
     .flexbox-container-contact {
@@ -1511,7 +1513,7 @@
     .flexbox-item-about {
         margin: 20px;
         padding: 20px;
-        width: 100%;
+        width: 50%;
     }
 
     .flexbox-item-1 {
