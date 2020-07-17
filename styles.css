@@ -1080,7 +1080,7 @@
     .flexbox-item {
         margin: 20px;
         padding: 20px;
-        width: 100%;
+        max-width: 480px;
     }
 
     .flexbox-item-about {
