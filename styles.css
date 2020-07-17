@@ -446,7 +446,7 @@
     }
 }
 
-@media (min-width:415px) and (max-width:767px) {
+@media (min-width:418px) and (max-width:767px) {
     * {
         box-sizing: border-box;
         font-family: 'Darker Grotesque', sans-serif;
