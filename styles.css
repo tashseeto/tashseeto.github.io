@@ -1069,8 +1069,7 @@
 
     .flexbox-container-about {
         display: flex;
-        flex-wrap: wrap;
-        align-items: stretch;
+       
         height: 72vh;
     }
 
