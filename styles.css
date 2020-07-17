@@ -9,7 +9,6 @@
 
 
 
-
 @media (max-width:767px) {
     * {
         box-sizing: border-box;
@@ -658,7 +657,7 @@
     .flexbox-container-contact {
         display: flex;
         align-items: stretch;
-        height: 75vh;
+        height: 65vh;
     }
 
     .flexbox-item {
