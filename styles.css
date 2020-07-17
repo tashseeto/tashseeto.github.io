@@ -1315,11 +1315,10 @@
         text-decoration: none;
     }
 
-
     .main-nav { 
         text-align: center;
         font-size: 1.5em;
-        font-weight: lighter;
+        font-weight: normal;
         border-bottom: 1.5px solid #861386;
         height: 60px;
         background-color: white;
