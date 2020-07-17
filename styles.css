@@ -999,6 +999,7 @@
     .main-footer-container ul {
         flex-grow: 1;
         text-align: end;
+        margin: 5px;
     }
 
     .footer-nav li {
