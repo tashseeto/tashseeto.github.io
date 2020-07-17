@@ -12,8 +12,16 @@ html, body {
     padding: 0;
 }
 
-
-
+.main-container {
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    max-width: 100%;
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 
 h4 {
