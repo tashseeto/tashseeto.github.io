@@ -471,7 +471,8 @@
     }
 
     .main-nav { 
-        text-align: center;
+        display: flex;
+        justify-content: space-evenly;
         font-size: 1.8em;
         font-weight: lighter;
         border-bottom: 1.5px solid #861386;
