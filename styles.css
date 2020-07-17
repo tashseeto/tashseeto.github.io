@@ -1521,7 +1521,7 @@
     .flexbox-item-1 {
         display: flex;
         flex-grow: 1;
-        margin: 0px 20px 20px 20px;
+        margin: 20px;
     }
 
     .flexbox-item-2 {
@@ -1529,7 +1529,7 @@
         flex-grow: 1;
         min-height: 250px;
         background-color: rgba(117,117,163, 0.6);
-        margin: 0px 20px 20px 20px;
+        margin: 20px;
         color: #f0f0f5;
     }
 
