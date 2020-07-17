@@ -225,13 +225,6 @@ h4 {
     height: 70vh;
 }
 
-@media screen and (min-width:360px){
-    .flexbox-container-contact {
-        display: block
-        height: 70vh;
-    }
-}
-
 
 .flexbox-item {
     margin: 20px;
@@ -239,13 +232,6 @@ h4 {
     width: 50%;
 }
 
-@media screen and (min-width:360px){
-    .flexbox-item {
-        margin: 20px;
-        padding: 20px;
-        width: 300px;
-    }
-}
 
 
 .flexbox-item-1 {
@@ -255,15 +241,6 @@ h4 {
     margin: 0px 20px 20px 20px;
 }
 
-@media screen and (min-width:360px){
-    .flexbox-item-1 {
-        display: inline-block;
-        max-height: 200px;
-        margin: 0px 20px 20px 20px;
-        width: 300px;
-    }
-
-}   
 
 .flexbox-item-2 {
     display: block;
@@ -272,16 +249,6 @@ h4 {
     margin: 0px 20px 20px 20px;
     color: #f0f0f5;
 }
-
-@media screen and (min-width:360px){
-    .flexbox-item-2 {
-        display: inline-block;
-        max-height: 250px;
-        background-color: rgba(117,117,163, 0.6);
-        margin: 0px 20px 20px 20px;
-        color: #f0f0f5;
-        width: 300px;
-    }
 
 
 .flexbox-item-3 p {
@@ -315,20 +282,6 @@ h4 {
 .form {
     padding: 10px;
     margin: 0px;
-}
-
-@media screen and (min-width:360px){
-    .form {
-        padding: 10px;
-        margin: 0px;
-    }
-}
-
-@media screen and (min-width:360px){
-    .form-item {
-        padding-bottom: 10px;
-        margin: 5px;
-    }
 }
 
 
