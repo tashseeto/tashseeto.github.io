@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 
 * {
@@ -187,7 +186,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("images/natashaseeto-home.png");
         object-fit: cover;
         background-size: cover;
         background-position: center;
@@ -197,7 +196,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/natashaseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -208,7 +207,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/natashaseeto-about.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -217,7 +216,7 @@
     }
 
     #bg-img-work {
-        background-image: url("images/floweroflife_repeating.jpg");
+        background-image: url("images/floweroflife.jpg");
         background-color: rgba(255, 255, 255, 0.9);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -395,7 +394,7 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-css3-48.png");
+        background-image: url("images/portfolioicons.png");
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -410,7 +409,7 @@
 
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-react-native-96.png");
+        background-image: url("images/icons8-react-native-96.png");
         background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
@@ -641,7 +640,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("images/natashaseeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
@@ -650,7 +649,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/natashaseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -661,7 +660,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/natashaseeto-about.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -670,7 +669,7 @@
     }
 
     #bg-img-work {
-        background-image: url("images/floweroflife_repeating.jpg");
+        background-image: url("images/floweroflife.jpg");
         background-color: rgba(255, 255, 255, 0.9);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -846,8 +845,7 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-css3-48.png");
-        background-blend-mode: overlay;
+        background-image: url("images/portfolioicons.png");
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -862,7 +860,7 @@
 
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-react-native-96.png");
+        background-image: url("images/icons8-react-native-96.png");
         background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
@@ -1081,7 +1079,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("images/natashaseeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
@@ -1091,7 +1089,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/natashaseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -1102,7 +1100,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/natashaseeto-about.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1111,7 +1109,7 @@
     }
 
     #bg-img-work {
-        background-image: url("images/floweroflife_repeating.jpg");
+        background-image: url("images/floweroflife.jpg");
         background-color: rgba(255, 255, 255, 0.9);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1286,6 +1284,9 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
+        background-image: url("images/portfolioicons.png");
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
     .grid-item5 {
@@ -1298,7 +1299,7 @@
 
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-react-native-96.png");
+        background-image: url("images/icons8-react-native-96.png");
         background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
@@ -1516,7 +1517,7 @@
     }
 
     #bg-img-home {
-        background-image: url("Images/NSeeto-home.png");
+        background-image: url("images/natashaseeto-home.png");
         object-fit: cover;
         background-size: cover;
         width: 100%;
@@ -1525,7 +1526,7 @@
     }
 
     #bg-img-contact {
-        background-image: url("images/NSeeto-Contact.png");
+        background-image: url("images/natashaseeto-contact.png");
         background-color: rgba(0, 0, 0, 0.3);
         background-blend-mode: overlay;
         height: 100%; 
@@ -1536,7 +1537,7 @@
     }
 
     #bg-img-about {
-        background-image: url("images/NSeeto-About2.png");
+        background-image: url("images/natashaseeto-about.png");
         background-color: rgba(0, 0, 0, 0.2);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1545,7 +1546,7 @@
     }
 
     #bg-img-work {
-        background-image: url("images/floweroflife_repeating.jpg");
+        background-image: url("images/floweroflife.jpg");
         background-color: rgba(255, 255, 255, 0.9);
         background-blend-mode: overlay;
         object-fit: cover;
@@ -1722,7 +1723,7 @@
 
     .grid-item4 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-css3-48.png");
+        background-image: url("images/portfolioicons.png");
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -1737,7 +1738,7 @@
 
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
-        background-image: url("Images/icons8-react-native-96.png");
+        background-image: url("images/icons8-react-native-96.png");
         background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
