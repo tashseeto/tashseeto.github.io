@@ -359,8 +359,8 @@
 
     .grid-container {
         display: grid;
-        grid-template-columns: 90px 90px 90px;
-        grid-template-rows: 90px 90px;
+        grid-template-columns: 100px 100px 100px;
+        grid-template-rows: 100px 100px;
         column-gap: 2px;
         row-gap: 2px;
         margin: 20px;
@@ -372,7 +372,7 @@
     }
 
     .grid-item p {
-        font-size: 1.5em;
+        font-size: 1em;
         margin: .5em 0em;
         text-align:  center;
         color: #861386;
