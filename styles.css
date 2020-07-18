@@ -402,7 +402,6 @@
     .grid-item5 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/pythonicon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -410,7 +409,6 @@
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/reacticon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -853,7 +851,6 @@
     .grid-item5 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/pythonicon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -861,7 +858,6 @@
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/reacticon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -1292,7 +1288,6 @@
     .grid-item5 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/pythonicon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -1300,7 +1295,6 @@
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/reacticon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -1731,7 +1725,6 @@
     .grid-item5 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/pythonicon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -1739,7 +1732,6 @@
     .grid-item6 {
         background-color: rgba(117,117,163, 0.2);
         background-image: url('images/reacticon.png');
-        background-blend-mode: overlay;
         background-repeat: no-repeat;
         background-position: center;
     }
