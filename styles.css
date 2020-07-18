@@ -359,7 +359,7 @@
     }
 
     .grid-container {
-        display: inline-grid;
+        display: grid;
         grid-template-columns: 100px;
         grid-template-rows: 150px;
         column-gap: 10px;
