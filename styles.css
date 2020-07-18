@@ -804,7 +804,8 @@
     }
 
     .work-container {
-        display: block;
+        display: flex;
+        flex-direction: column;
         height: 70vh;
     }
 
