@@ -796,7 +796,7 @@
     text-align: center;
     height: 50px;
     padding: 4px;
-    margin: 2px;
+    margin: 2px;au
     font-size: 1.25em;
     border: solid 3px rgba(153,0,153,0.7);
     border-radius: 5px;
@@ -1254,8 +1254,8 @@
 
     .grid-container {
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: .25fr 1.75fr;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: auto auto;
         column-gap: 10px;
         row-gap: 2px;
         margin: 20px;
@@ -1263,7 +1263,6 @@
         padding-bottom: 40px;
         padding-left: 0px;
         padding-right: 0px;
-        position: relative;
     }
 
     .grid-item p {
@@ -1704,7 +1703,6 @@
         padding-bottom: 60px;
         padding-left: 0px;
         padding-right: 0px;
-        position: relative;
     }
 
     .grid-item p {
