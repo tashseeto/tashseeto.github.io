@@ -29,7 +29,7 @@
     }
 
     h4 {
-        font-size: 1em;
+        font-size: 1.5em;
         margin: 0px;
         padding: 2px;
         text-align: center;
@@ -359,13 +359,13 @@
 
     .grid-container {
         display: grid;
-        grid-template-columns: 100px 100px 100px;
-        grid-template-rows: 100px 100px;
+        grid-template-columns: 110px 110px 110px;
+        grid-template-rows: 110px 110px;
         column-gap: 2px;
         row-gap: 2px;
         margin: 20px;
-        padding-top: 5px;
-        padding-bottom: 5px;
+        padding-top: 20px;
+        padding-bottom: 20px;
         padding-left: 0px;
         padding-right: 0px;
     }
