@@ -1239,15 +1239,15 @@
     }
 
     .form button {
-    width: 70px;
-    text-align: center;
-    height: 50px;
-    padding: 4px;
-    margin: 2px;
-    font-size: 1.25em;
-    border: solid 3px rgba(153,0,153,0.7);
-    border-radius: 5px;
-    color: rgba(153,0,153,0.7);
+        width: 70px;
+        text-align: center;
+        height: 50px;
+        padding: 4px;
+        margin: 2px;
+        font-size: 1.25em;
+        border: solid 3px rgba(153,0,153,0.7);
+        border-radius: 5px;
+        color: rgba(153,0,153,0.7);
     }
 
     .work-container {
@@ -1264,8 +1264,8 @@
         column-gap: 10px;
         row-gap: 2px;
         margin: 20px;
-        padding-top: 40px;
-        padding-bottom: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
         padding-left: 0px;
         padding-right: 0px;
     }
