@@ -1246,6 +1246,9 @@
     }
 
     .work-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
         height: 70vh;
     }
 
@@ -1684,7 +1687,10 @@
     }
 
     .work-container {
-        height: 72vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 70vh;
     }
 
     .grid-container {
