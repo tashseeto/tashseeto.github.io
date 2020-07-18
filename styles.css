@@ -29,9 +29,9 @@
     }
 
     h4 {
-        font-size: 2.5em;
+        font-size: 1em;
         margin: 0px;
-        padding: 20px;
+        padding: 2px;
         text-align: center;
         color:  #861386;
     }
@@ -368,7 +368,6 @@
         padding-bottom: 5px;
         padding-left: 0px;
         padding-right: 0px;
-        position: relative;
     }
 
     .grid-item p {
