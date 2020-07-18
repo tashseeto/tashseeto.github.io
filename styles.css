@@ -354,14 +354,14 @@
 
     .work-container {
         display: block;
-        height: 80vh;
+        height: 70vh;
     }
 
     .grid-container {
         display: grid;
-        grid-template-columns: 80px 80px 80px;
-        grid-template-rows: 150px;
-        column-gap: 10px;
+        grid-template-columns: 90px 90px 90px;
+        grid-template-rows: 90px 90px;
+        column-gap: 2px;
         row-gap: 2px;
         margin: 20px;
         padding-top: 5px;
