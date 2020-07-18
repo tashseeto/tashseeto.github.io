@@ -360,8 +360,8 @@
 
     .grid-container {
         display: inline-grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: .25fr 1.5fr;
+        grid-template-columns: 100px;
+        grid-template-rows: 150px;
         column-gap: 10px;
         row-gap: 2px;
         margin: 20px;
