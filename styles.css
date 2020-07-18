@@ -26,6 +26,9 @@
         object-fit: cover;
         background-repeat: no-repeat;
         background-position: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
     }
 
     h4 {
