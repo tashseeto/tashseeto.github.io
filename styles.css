@@ -358,7 +358,7 @@
     .work-container {
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content: center;
         height: 70vh;
     }
 
