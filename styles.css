@@ -353,6 +353,8 @@
     }
 
     .work-container {
+        display: flex;
+        flex-wrap: wrap;
         height: 80vh;
     }
 
