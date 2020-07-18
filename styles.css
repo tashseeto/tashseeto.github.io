@@ -360,7 +360,7 @@
     .grid-container {
         display: grid;
         grid-template-columns: auto auto auto;
-        grid-template-rows: 150px 200px;
+        grid-template-rows: auto auto;
         column-gap: 2px;
         row-gap: 2px;
         margin: 20px;
