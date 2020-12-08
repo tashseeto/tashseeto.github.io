@@ -16,4 +16,5 @@ toggleIconClasses = () => {
     hamburgerIcon.classList.toggle('inactive');
     closeIcon.classList.toggle('inactive');
 }
-    
+
+// <!--I hope this updates ongithubpages -->
