@@ -270,7 +270,7 @@ div#about-page-container {
   justify-content: flex-end;
   background: linear-gradient(
     rgba(0, 0, 0, 0.35),
-    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0.75)
     ),
     url("images/natashaseeto-about2.jpg");
   background-position: center;
@@ -292,7 +292,7 @@ div#contact-page-container {
   /* justify-content: flex-start; */
   background: linear-gradient(
     rgba(0, 0, 0, 0.35),
-    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0.75)
     ),
     url("images/natashaseeto-contact.png");
   background-position: right;
