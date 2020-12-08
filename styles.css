@@ -271,7 +271,7 @@ div#about-page-container {
   background: linear-gradient(
     rgba(0, 0, 0, 0.35),
     rgba(0, 0, 0, 0.75)
-    ),
+    )
     url("images/natashaseeto-about2.jpg");
   background-position: center;
   background-size: cover;
